@@ -1,7 +1,7 @@
 # Site settings
 title: Peony Lynne
 email: ""
-description: "Photo Journal"
+description: ""
 url: "https://peonylynne.github.io"
 baseurl: "/"
 facebook_username: "peony.lynne"
@@ -32,10 +32,10 @@ comments :
     short_name : ""
 
 # Internal nav
-nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+#nav:
+#  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
+#  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
+#  - ABOUT: "https://sunbliss.github.io/photorama/about/"
 
 # All translation keys
 translations:
