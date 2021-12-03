@@ -4,9 +4,9 @@ email: ""
 description: "Photo Journal"
 url: "https://peonylynne.github.io"
 baseurl: "/"
-facebook_username: ""
+facebook_username: "peony.lynne"
 twitter_username: ""
-instagram_username: ""
+instagram_username: "Peony.Lynne"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Peony Lynne
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
